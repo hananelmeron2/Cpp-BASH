@@ -1,4 +1,4 @@
-# Cpp-BASH
+# Cpp-BASH.
 this script will check the leak-memory , thread race and compliation of a given file.
 
 in the final output the user will see one of 5 options :
