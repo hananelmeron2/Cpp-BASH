@@ -26,7 +26,7 @@ classes :
 2.tree.hpp : contain the functions without the implemation.
 3.tree test : unit test for the program with 45 checks.
 4.tree demo : the main class.
-5. makefile.
+5. makefile : run the classes.
 6.badkan.hpp : will check the functions.
 
 working envirment : linux.
