@@ -31,9 +31,10 @@ classes :
 
 working envirment : linux.
 
-on terminal press make demo && ./demo.
-                  make test && ./test.
-                  this commends will run the program.
+on terminal press \
+make demo && ./demo.  
+make test && ./test.
+this commends will run the program.
                   
                   
 
