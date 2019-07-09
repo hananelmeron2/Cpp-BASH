@@ -1,3 +1,4 @@
+
 #!/bin/bash
 dir_path="$1"
 program="$2"
